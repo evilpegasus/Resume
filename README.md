@@ -1,5 +1,8 @@
 # Resume
-This is the my résumé, written in LaTex. Feel free to copy the format. 
+This is the my résumé, written in LaTex. Feel free to copy the format.
+
+## GitHub Pages
+This repo has been published to GitHub Pages for ease of link management. The PDF is published at [https://evilpegasus.github.io/Resume/Resume.pdf](https://evilpegasus.github.io/Resume/Resume.pdf) and can be linked to from other sites such as my [personal page](http://evilpegasus.github.io/).
 
 ## Credit
-The original creator of this format is [Trey Hunner](https://github.com/treyhunner). See his source code [here](https://github.com/treyhunner/resume). I have made some minor modifications.
+The original creator of this format is [Trey Hunner](https://github.com/treyhunner). His source code can be found [here](https://github.com/treyhunner/resume). I have made some minor modifications.
