@@ -61,7 +61,7 @@
     \centerline{#1}
   \endgroup
   \par
-  \addressskip
+  % \addressskip
 }
 
 % \printname is used to print the name as a page header
