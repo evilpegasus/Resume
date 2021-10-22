@@ -118,7 +118,7 @@
   }\smallskip
   \begin{list}{}{\leftmargin=0em} % Removed bullet points from item lists (original line below)
   % \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
-   \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
+   \itemsep -0.5em \vspace{-0.75em} % Compress items in list together for aesthetics
   }{
   \end{list}
   % \vspace{0.1em} % Some space after the list of bullet points (Original was 0.5em)
