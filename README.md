@@ -7,4 +7,4 @@ This repo has been published to GitHub Pages for ease of link management. The PD
 The `index.html` will also redirect [https://evilpegasus.github.io/Resume/](https://evilpegasus.github.io/Resume/) to the pdf file.
 
 ## Credit
-The original creator of this format is [Trey Hunner](https://github.com/treyhunner). His source code can be found [here](https://github.com/treyhunner/resume). I have made some minor modifications.
+The original creator of this format is [Trey Hunner](https://github.com/treyhunner). His source code can be found [here](https://github.com/treyhunner/resume). I have made some minor modifications to the class file and the ordering.
