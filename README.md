@@ -1,6 +1,8 @@
 # Resume
 This is the my résumé, written in LaTex. Feel free to copy the format.
 
+This resume has been battle tested for internship positions in software engineering, data science, quantitative research, and trading at all sizes and industries of companies.
+
 ## [GitHub Pages](https://evilpegasus.github.io/Resume/Ming_Fong_Resume.pdf)
 This repo has been published to GitHub Pages for ease of link management. The PDF is published at [https://evilpegasus.github.io/Resume/Ming_Fong_Resume.pdf](https://evilpegasus.github.io/Resume/Ming_Fong_Resume.pdf) and can be linked to from other sites such as my [personal page](http://evilpegasus.github.io/). The public pdf updates automatically once you push a new version of [Ming_Fong_Resume.pdf](Ming_Fong_Resume.pdf) to master.
 
