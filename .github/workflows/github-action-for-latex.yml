@@ -4,14 +4,12 @@ jobs:
   build_latex:
     runs-on: ubuntu-latest
     steps:
-      - name: Github Action for LaTeX
-        # You may pin to the exact commit or the version.
-        # uses: xu-cheng/latex-action@809f138f734cff030fab8eb42fd7a61a9bae94de
-        uses: xu-cheng/latex-action@v3
-        with:
-          root_file: Ming_Fong_Resume.tex
-      - name: Upload PDF file
-        uses: actions/upload-artifact@v4
-        with:
-          name: PDF
-          path: Ming_Fong_Resume.pdf
+    - name: Github Action for LaTeX
+      uses: xu-cheng/latex-action@v3
+      with:
+        root_file: Ming_Fong_Resume.tex
+    - name: Upload PDF file
+      uses: actions/upload-artifact@v4
+      with:
+        name: PDF
+        path: Ming_Fong_Resume.pdf
