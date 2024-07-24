@@ -9,8 +9,7 @@ jobs:
         # uses: xu-cheng/latex-action@809f138f734cff030fab8eb42fd7a61a9bae94de
         uses: xu-cheng/latex-action@v3
         with:
-          # The root LaTeX file to be compiled
-          root_file: /Ming_Fong_Resume.tex
+          root_file: Ming_Fong_Resume.tex
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
         with:
